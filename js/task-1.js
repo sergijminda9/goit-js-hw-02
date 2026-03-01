@@ -8,6 +8,7 @@ function makeTransaction(quantity, pricePerDroid, customerCredits) {
       'You ordered' +
       ' ' +
       quantity +
+      ' ' +
       'droids worth' +
       ' ' +
       sum +
